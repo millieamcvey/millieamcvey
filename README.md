@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @millieamcvey
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL + Python
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning: HTML, CSS, and JavaScript
 - 📫 LinkedIn: Millie McVey
 
 <!---
